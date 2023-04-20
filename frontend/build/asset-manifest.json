@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b8daba65.css",
+    "main.js": "/static/js/main.c2d4ad4a.js",
+    "static/media/alfa.svg": "/static/media/alfa.beb606d5bcc7a73279a0277c524a158f.svg",
+    "static/media/toyota.svg": "/static/media/toyota.3459c861cb376396057ab8f4cc5142ba.svg",
+    "static/media/bmw.svg": "/static/media/bmw.88a26b892fb3026da4ba20453447196a.svg",
+    "static/media/ferrari.svg": "/static/media/ferrari.f9ac99caa3c3afd8b9141697b782e36f.svg",
+    "static/media/mercedes.svg": "/static/media/mercedes.dc4071beeab36c065cd5f1d6c53241ca.svg",
+    "static/media/skoda.svg": "/static/media/skoda.d256e08272d7c295a6f02ccf58b0bd67.svg",
+    "index.html": "/index.html",
+    "main.b8daba65.css.map": "/static/css/main.b8daba65.css.map",
+    "main.c2d4ad4a.js.map": "/static/js/main.c2d4ad4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8daba65.css",
+    "static/js/main.c2d4ad4a.js"
+  ]
+}
